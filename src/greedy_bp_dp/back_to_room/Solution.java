@@ -1,4 +1,4 @@
-package greedy_BP_DP.back_to_room;
+package greedy_bp_dp.back_to_room;
 
 import java.io.FileInputStream;
 import java.util.*;

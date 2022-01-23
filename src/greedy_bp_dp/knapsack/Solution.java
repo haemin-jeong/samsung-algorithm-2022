@@ -1,4 +1,4 @@
-package greedy_BP_DP.knapsack;
+package greedy_bp_dp.knapsack;
 
 import java.io.FileInputStream;
 import java.util.Scanner;

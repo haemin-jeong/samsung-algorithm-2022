@@ -1,4 +1,4 @@
-package greedy_BP_DP.easy_change;
+package greedy_bp_dp.easy_change;
 
 import java.io.FileInputStream;
 import java.util.Arrays;

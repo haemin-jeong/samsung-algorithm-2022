@@ -1,4 +1,4 @@
-package greedy_BP_DP.lcs;
+package greedy_bp_dp.lcs;
 
 import java.io.FileInputStream;
 import java.util.Scanner;

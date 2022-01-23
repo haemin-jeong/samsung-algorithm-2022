@@ -1,4 +1,4 @@
-package greedy_BP_DP.max_reward;
+package greedy_bp_dp.max_reward;
 
 import java.io.FileInputStream;
 import java.util.Scanner;
